@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+     text-align: center;
+     background: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#scorehome, #scoreguest{
+    background: #0a0001;
+    font-size: 90px;
+    color: red;
+    width: 100px;
+    margin: 10px;
+}
+h3{
+    color: white
+}
