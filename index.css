@@ -9,7 +9,7 @@ body {
     justify-content: space-around;
 }
 
-.scorehome,.scoreguest{
+#scorehome,#scoreguest{
     background: #0a0001;
     font-size: 90px;
     color: red;
