@@ -23,18 +23,18 @@ let scoreguest=0
 
 function gIncBy1(){
     scoreguest+=1
-    document.getElementById("scorehome").textContent=scoreguest
+    document.getElementById("scoreguest").textContent=scoreguest
 }
 
 function gIncBy2(){
     scoreguest+=2
-    document.getElementById("scorehome").textContent=scoreguest
+    document.getElementById("scoreguest").textContent=scoreguest
 }
 
 
 function gIncBy3(){
     scoreguest+=3
-    document.getElementById("scorehome").textContent=scoreguest
+    document.getElementById("scoreguest").textContent=scoreguest
 
 }
 
